@@ -30,7 +30,7 @@
         "datatables.net": "^1.10.21",
         "datatables.net-dt": "^1.10.21",
         "font-awesome": "^4.7.0",
-        "jquery-validation": "^1.19.1",
+        "jquery-validation": "^1.19.3",
         "lightbox2": "^2.11.1",
         "materialize-css": "^1.0.0-rc.2",
         "mdbootstrap": "^4.19.1",
